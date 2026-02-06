@@ -58,3 +58,4 @@ The client must be configured to connect to your server's IP and port (default: 
 - Configuration: Review `Server/EVESharp.Node/Configuration/` classes
 - Services: Explore `Server/EVESharp.Node/Services/` for game logic
 - **Architecture options:** `ARCHITECTURE_OPTIONS.md` - Analysis of client approaches and standalone integration
+- **Web client guide:** `WEB_CLIENT_GUIDE.md` - Step-by-step guide for building a web-based client
